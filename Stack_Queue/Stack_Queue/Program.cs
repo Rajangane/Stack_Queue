@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("************* Stack & Queue *****************");
 using Stack_Queue;
-Console.Write("Select Number:\n1)Stack");
+Console.Write("Select Number:\n1)Stack\n2)Queue\n");
 int option = Convert.ToInt32(Console.ReadLine());
 
 switch (option)
@@ -15,6 +15,17 @@ switch (option)
         stack.Peek();
         stack.Pop();
         stack.Empty();
+        break;
+    case 2:
+        QueueUsingLinkedlist<int> queue = new QueueUsingLinkedlist<int>();
+        queue.Enqueue(70);
+        queue.Enqueue(30);
+        queue.Enqueue(56);
+        Console.WriteLine("Before Dequeue : ");
+        queue.Display();
+        queue.Dequeue();
+        Console.WriteLine("\nAfter Dequeue : ");
+        queue.Display();
         break;
 
     default:
