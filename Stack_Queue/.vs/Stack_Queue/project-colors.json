@@ -5,7 +5,12 @@
       "ProjectGuid": "997b36c9-38d3-4546-a071-4dc3d0d1d78c",
       "DisplayName": "Stack_Queue",
       "ColorIndex": 0
+    },
+    "27eb95df-833f-4c52-851a-b81a0c4a4b1f": {
+      "ProjectGuid": "27eb95df-833f-4c52-851a-b81a0c4a4b1f",
+      "DisplayName": "Stack_Queue",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

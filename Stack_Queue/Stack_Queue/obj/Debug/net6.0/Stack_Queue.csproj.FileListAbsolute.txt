@@ -12,3 +12,4 @@ D:\bridzlabz\Stack & Queue\Stack_Queue\Stack_Queue\obj\Debug\net6.0\Stack_Queue.
 D:\bridzlabz\Stack & Queue\Stack_Queue\Stack_Queue\obj\Debug\net6.0\ref\Stack_Queue.dll
 D:\bridzlabz\Stack & Queue\Stack_Queue\Stack_Queue\obj\Debug\net6.0\Stack_Queue.pdb
 D:\bridzlabz\Stack & Queue\Stack_Queue\Stack_Queue\obj\Debug\net6.0\Stack_Queue.genruntimeconfig.cache
+D:\bridzlabz\Stack & Queue\Stack_Queue\Stack_Queue\obj\Debug\net6.0\Stack_Queue.csproj.AssemblyReference.cache
